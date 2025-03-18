@@ -1,8 +1,11 @@
 **Food-Queue-Management-System**
+--------------------------------
+
 
 **Overview**
 
 This project is a Food Queue Management System designed to manage customer queues at a pizza shop efficiently. It helps track customers in different queues, manage pizza stock, and store/retrieve data.
+
 
 **Features**
 
@@ -24,6 +27,7 @@ This project is a Food Queue Management System designed to manage customer queue
 - Load data from a file (LPD)
 
 : Exit program (EXT)
+
 
 **Installation & Setup**
 
@@ -49,13 +53,16 @@ javac src/snackKingFoodCenter.java
 
 java -cp src snackKingFoodCenter
 
+
 **Usage**
 
 After running the program, follow the on-screen menu instructions to manage the food queue system.
 
+
 **File Storage**
 
 The system allows storing and loading queue data from a file, ensuring persistence between sessions.
+
 
 **Contributing**
 

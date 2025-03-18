@@ -1,4 +1,4 @@
-**Food Queue Management System**
+**Food-Queue-Management-System**
 
 **Overview**
 
